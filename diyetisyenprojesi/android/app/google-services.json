@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14122290078",
+    "project_id": "diyetisyen-a7aae",
+    "storage_bucket": "diyetisyen-a7aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14122290078:android:149ba54a5c8633c0dba48f",
+        "android_client_info": {
+          "package_name": "com.proje.diyetisyenprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14122290078-k7er06q2dr698eg5rtgthjn60jf0j54h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proje.diyetisyenprojesi",
+            "certificate_hash": "21cdd1d55c445590ae306901e79d51db14d8e8e5"
+          }
+        },
+        {
+          "client_id": "14122290078-psgp9fp90u3er3vi0puusmi1okvm4jrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75i5PzRF978ePD32BACJFxUsvpn-kQOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14122290078-psgp9fp90u3er3vi0puusmi1okvm4jrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
